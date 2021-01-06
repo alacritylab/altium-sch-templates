@@ -1,0 +1,1 @@
+# altium-sch-templates
